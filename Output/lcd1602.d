@@ -1,0 +1,17 @@
+..\..\output\lcd1602.o: ..\..\User\lcd1602\LCD1602.c
+..\..\output\lcd1602.o: ..\..\User\lcd1602\LCD1602.h
+..\..\output\lcd1602.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\lcd1602.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\lcd1602.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\lcd1602.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\lcd1602.o: ..\..\User\stm32f10x_conf.h
+..\..\output\lcd1602.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
+..\..\output\lcd1602.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\lcd1602.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\lcd1602.o: ..\..\Libraries\FWlib\inc\stm32f10x_i2c.h
+..\..\output\lcd1602.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\lcd1602.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\lcd1602.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\lcd1602.o: ..\..\User\./systick/systick.h
+..\..\output\lcd1602.o: ..\..\User\./usart/bsp_usart.h
+..\..\output\lcd1602.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

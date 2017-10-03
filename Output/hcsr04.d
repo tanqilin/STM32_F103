@@ -1,0 +1,15 @@
+..\..\output\hcsr04.o: ..\..\User\hcsr04\HCSR04.c
+..\..\output\hcsr04.o: ..\..\User\./hcsr04/HCSR04.h
+..\..\output\hcsr04.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\hcsr04.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\hcsr04.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\hcsr04.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\hcsr04.o: ..\..\User\stm32f10x_conf.h
+..\..\output\hcsr04.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
+..\..\output\hcsr04.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\hcsr04.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\hcsr04.o: ..\..\Libraries\FWlib\inc\stm32f10x_i2c.h
+..\..\output\hcsr04.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\hcsr04.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\hcsr04.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\hcsr04.o: ..\..\User\./systick/systick.h

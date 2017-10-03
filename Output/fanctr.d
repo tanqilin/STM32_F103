@@ -1,0 +1,14 @@
+..\..\output\fanctr.o: ..\..\User\fanctr\FANCTR.c
+..\..\output\fanctr.o: ..\..\User\fanctr\FANCTR.h
+..\..\output\fanctr.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\fanctr.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\fanctr.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\fanctr.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\fanctr.o: ..\..\User\stm32f10x_conf.h
+..\..\output\fanctr.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
+..\..\output\fanctr.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\fanctr.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\fanctr.o: ..\..\Libraries\FWlib\inc\stm32f10x_i2c.h
+..\..\output\fanctr.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\fanctr.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\fanctr.o: ..\..\Libraries\FWlib\inc\misc.h
